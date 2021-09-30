@@ -1,0 +1,67 @@
+Web Automation - 
+    -Create WebDriver instance
+    -Go to a web page
+    -Locate the object 
+    -Perform the action on the object
+    -Anticipate browser response to action
+    -Record results using framework
+    -Quit the browser and WebDriver
+
+The detailed steps can be found here - 
+            https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+
+You need to download the required driver for the browser you're using so that the commands are compatible.
+
+Initialize an instance of the webdriver and use the .get method to navigate to the required website.
+Perform the operations and then close the driver. this is the gist of web automation.
+
+Here, our contents are in a tabular format. 
+So we get the number of rows and columns and iterate through it. use a for loop if you know how many entries are there, or use a while if you don't.
+
+the website is written mainly using angularjs,
+
+conventionally for html, we use the following steps.
+    1. find the table, and through the table access the elements and the link 
+    2. go through each row of the table,
+    3. save the necessary information in an excel sheet or any other format.
+    4. once we are through with the table, we find the next button ( if its enabled, there are more pages, if disabled, we have reached the last page)
+
+but with selenium alone, it is not possible to automate angularjs pages as there are a few extra controllers in angular like ng-repeat
+an alternative is to use protractor which is built on selenium (java script) 
+    or we can use the ngWebDriver api (java,).
+
+
+Since the table is made using angular, it was way easier to just copy the contents and paste them into an excel file. 
+    All the data from the table gets copied and automatically gets formatted by excel. 
+
+right now, we just have the table data, now we need to go through the data and download the pdfs in the links.
+
+To download the pdfs, we can use some built in packages in python.
+    1. urllib
+    2. wget
+    3. response
+
+We can save as a custom file name, in the required file format.
+All the required information will be saved in the file name. 
+All courses are 9 day courses.
+hence I have only included the start date in the file name.
+
+excel.py
+reads the data from the excel file and downloads the files(pdf) at the respective link.
+saves the pdf as (titleCode_fromDate_numParticipants_numResourcePersons.pdf)
+There is a small change in the names of a few programs in some years which are actually the same program. Hence to keep the code same, ive sorted the letters in the code.
+also saves all the codes and names of the programs in a txt file available in the folder for reference.
+
+//TODO:
+go through pdfs to extract details.
+Details can be extracted using tools, such as adobe/ acrobat.
+    1. Use Acrobat (just realized its paid :( , but has a lot of options)
+    2. Use the inbuilt power query option in excel. (hard to customize if pdf is not in correct format.)
+        #Table.TransformColumnTypes(Table003,{{"Column1", Int64.Type}, {"Column2", type text}, {"Column3", Int64.Type}, {"Column4", Int64.Type}})
+        #Table.RenameColumns(#"Changed Type",{{"Column2", "NAMES"}, {"Column1", "Sl. No."},{"Column3","Before#(lf)training"},{"Column4","After#(lf)Training"}})
+
+Since the pdfs have before/after scores, we need to get the names, address and scores in a readable format.
+
+1. maybe we can make a new sheet for each pdf. (a sheet will have name, address and scores)
+
+
