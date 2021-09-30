@@ -1,0 +1,28 @@
+HPSSTT : High School Science Teachers Training Programe
+HMPSTT : High School Mathematics Teachers Training Programe
+BCDIPTT : DEGREE COLLEGE TEACHERS TRAINING PROGRAM IN BIOLOGY
+CCDIPTT : DEGREE COLLEGE TEACHERS TRAINING PROGRAM IN Chemistry
+CDIMPTT : DEGREE COLLEGE TEACHERS TRAINING PROGRAM IN MATHEMATICS
+CDIPPTT : DEGREE COLLEGE TEACHERS TRAINING PROGRAM IN PHYSICS
+HKMPSTT : KRIES High School Teachers Training Program Mathematics
+HKPSSTT : KRIES High School Teachers Training Program Science
+CJPPTT : JNV PGT Chemistry Teachers Training Program
+JMPPTT : JNV PGT Mathematics Teachers Training Program
+CKPPTT : KV PGT Chemistry Teachers Training Program
+KMPPTT : KV PGT Mathematics Teachers Training Program
+JPPPTT : JNV PGT Physics Teachers Training Program
+BJPPTT : JNV PGT Biology Teachers Training Program
+CKLPT : KV Lectureres Training Program Chemistry
+KLMPT : KV Lectureres Training Program Mathematics
+KLPPT : KV Lectureres Training Program Physics
+BKLPT : KV Lectureres Training Program Biology
+JLPPT : JNV Lectureres Training Program Physics
+BJLPT : JNV Lectureres Training Program Biology
+CJLPT : JNV Lectureres Training Program Chemistry
+JLMPT : JNV Lectureres Training Program Mathematics
+BBLPT : BSC Lectureres Training Program Biology
+BCLPT : BSC Lectureres Training Program Chemistry
+BLMPT : BSC Lectureres Training Program Mathematics
+BLPPT : BSC Lectureres Training Program Physics
+,CILMS : Mathematics Subject Inspectors ,Diet College Lecturers
+,CILSS : Science Subject Inspectors ,Diet College Lecturers

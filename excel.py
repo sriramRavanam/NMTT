@@ -1,5 +1,6 @@
 import openpyxl as opxl
 import urllib.request as req 
+ 
 
 def convertToCode(str):
     res = ""
@@ -36,10 +37,11 @@ resultsLink = 'H'
 
 codes = []
 code = {}
+missing = []
 
-pathToFolder = "./test2/"
-# maxRow = numEntries+1
-maxRow = 20
+pathToFolder = "./data/"
+maxRow = numEntries+1
+# maxRow = 20
 for i in range(1,maxRow):
     rowNum_1 = 2*i
     rowNum_2 = 2*i+1
@@ -48,20 +50,32 @@ for i in range(1,maxRow):
     (_,_,_,durationToCell,_,_,_,_) = sheet[rowNum_2]
 
     #get data from link
-    titleCode = convertToCode(titleCell.value)    
+    title = titleCell.value
+    titleCode = convertToCode(title)    
     fromDate = durationFromCell.value
+    fromDate = fromDate[5:]
+    yyyymmdd = fromDate[6:]+"-"+fromDate[3:5]+"-"+fromDate[:2]
     toDate = durationToCell.value
-    fileName = titleCode+"_("+fromDate[5:7]+"-"+toDate[3:5]+")"+toDate[5:]+"_"+str(numParticipantsCell.value)+"_"+str(numResourcePersonsCell.value)+".pdf"
+    # fileName = titleCode+"_("+fromDate[5:7]+"-"+toDate[3:5]+")"+toDate[5:]+"_"+str(numParticipantsCell.value)+"_"+str(numResourcePersonsCell.value)+".pdf"
+    fileName = titleCode+"_("+yyyymmdd+")_"+str(numParticipantsCell.value)+"_"+str(numResourcePersonsCell.value)+".pdf"
     
     # #resultsLinkCell - type - MergedCell
+    # if titleCode == "HMPSTT":
     if resultsLinkCell is not None:
-        link = resultsLinkCell.value
+        
+        try:
+            link = resultsLinkCell.value
+            req.urlretrieve(link,pathToFolder+fileName)
+            if titleCode not in codes:
+                codes.append(titleCode)
+                code[titleCode] = title
+        except Exception as e:
+            print(titleCell.value + " not found")
+            missing.append(str(title)+"_"+titleCode+"_"+yyyymmdd)
 
-        if titleCode not in codes:
-            codes.append(titleCode)
-            code[titleCode] = titleCell.value
 
-        req.urlretrieve(link,pathToFolder+fileName)
+
+        
 
 
 legendName = "legend.txt"
@@ -69,8 +83,14 @@ with open(pathToFolder+legendName,"w") as file:
     for id in codes:
         line = str(id)+" : "+str(code[id])+"\n"
         file.write(line)
-    
-file.close()
+    file.close()
+
+missingFileName  = "missing.txt"
+with open(pathToFolder+missingFileName,"w") as file:
+    for line in missing:
+        line = line + "\n"
+        file.write(line)
+    file.close()
 
 
 # (natureOfProgramCell,titleCell,numDaysCell,durationFromCell,numParticipantsCell,numResourcePersonsCell,urlCell,resultsLinkCell) = sheet[2]
