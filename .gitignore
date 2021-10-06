@@ -1,4 +1,4 @@
 ### TEST FOLDERS ###
-.\test\
-.\test2\
+.\test\*
+.\test2\*
 .\testExcel\
