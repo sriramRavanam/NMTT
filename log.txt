@@ -52,6 +52,8 @@ saves the pdf as (titleCode_fromDate_numParticipants_numResourcePersons.pdf)
 There is a small change in the names of a few programs in some years which are actually the same program. Hence to keep the code same, ive sorted the letters in the code.
 also saves all the codes and names of the programs in a txt file available in the folder for reference.
 
+in the website, there are exactle 14 links that are missing, these are files that are skipped.
+
 //TODO:
 go through pdfs to extract details.
 Details can be extracted using tools, such as adobe/ acrobat.
@@ -59,9 +61,28 @@ Details can be extracted using tools, such as adobe/ acrobat.
     2. Use the inbuilt power query option in excel. (hard to customize if pdf is not in correct format.)
         #Table.TransformColumnTypes(Table003,{{"Column1", Int64.Type}, {"Column2", type text}, {"Column3", Int64.Type}, {"Column4", Int64.Type}})
         #Table.RenameColumns(#"Changed Type",{{"Column2", "NAMES"}, {"Column1", "Sl. No."},{"Column3","Before#(lf)training"},{"Column4","After#(lf)Training"}})
+    3. Using WPS office to convert pdf to excel.
+
+
+Converting pdfs to excel has been challenging since the format of the pdf was unique. Usually, it should be possible to very easily conver the pdf to excel using inbuilt excel utility,
+but the interface and the way excel extracted data from multi page pdfs was very tough to use. Hence I started looking for other software to solve this issue.
+
+Acrobat is very simple to use and can perform the task easily, but it is a paid tool for multiple files.
+
+WPS office is another free option, but only if the number of pages in the pdf is not more than 3. 
 
 Since the pdfs have before/after scores, we need to get the names, address and scores in a readable format.
 
 1. maybe we can make a new sheet for each pdf. (a sheet will have name, address and scores)
+2. since the number of sheets is more, it would be easier to get the data in frames from excel directly, so it would be better to keep the files in excel format
+
+
+A district is an administrative division of an Indian state or territory. 
+Most of the rows have districts as part of their address but some of them have cities, so it would be better to see representation by using the last word in the address as the identifier.
+
+writing a script to seperate out the name from the address and store it in a different column
+
+
+
 
 
