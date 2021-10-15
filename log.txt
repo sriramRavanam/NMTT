@@ -82,7 +82,12 @@ Most of the rows have districts as part of their address but some of them have c
 
 writing a script to seperate out the name from the address and store it in a different column
 
+writing a python script using openpyxl to access excel data, which are stored as objects. makes life easier and more organized.
 
+Some teachers have a designation as well as an address and some others don't have this, so I think I can count backwards and if designation isn't there, I will keep the space blank.
+I could choose to omit the data field completely but it might come in handy for someone else so I will incorporate that as well.
+
+Apart from the districts being at the end, none of the other addresses are in a particular format and each have different intricacies, so it is better if i just stick to extracting districts as they are the last words in the address.
 
 
 
