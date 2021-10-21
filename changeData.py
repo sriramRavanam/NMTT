@@ -1,15 +1,21 @@
 import os
 import openpyxl as op
 from copy import copy
+import glob 
 
 
-dir = "test"
-destination = "test2"
-excelFiles = os.listdir(dir+"\.")
+dir = "mathExcels"
+destination = "mathTransformed"
+pattern = "*.xlsx"
+# excelFiles = os.listdir(dir+"\.") // didnt allow use of regular expressions, hence had to use glob
+excelFiles = glob.glob(dir+"/"+pattern)
 
 for file in excelFiles:
-    filePath = dir+"/"+file
-    destinationPath = destination+"/"+file
+    filePath = file
+    
+    fileName = file.split("\\")[-1]
+
+    destinationPath = destination+"/"+fileName
     #old workbook
     wb = op.load_workbook(filename=filePath)
     oldSheet = wb.worksheets[0]
@@ -56,13 +62,16 @@ for file in excelFiles:
             newSheet.cell(row=i,column=j).value = cell.value
         # nameAndAddress = oldSheet.cell(row = i, column = 2).value
 
-        print(nameAndAddress)
+        # print(nameAndAddress)
         value = nameAndAddress.split("\n")
         fullName = value[0]
-        Address = value[-1]
+        Address = value[-1].split(", ")
+        district = Address[-1]
+        district = district[:-1]
 
         newSheet.cell(row=i,column=5).value = fullName
-        newSheet.cell(row=i,column=6).value = Address[-1][:-1]
+        # print(district)
+        newSheet.cell(row=i,column=6).value = district
         
             ###Approach 2
         # print(Address)
