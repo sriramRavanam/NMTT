@@ -89,5 +89,12 @@ I could choose to omit the data field completely but it might come in handy for 
 
 Apart from the districts being at the end, none of the other addresses are in a particular format and each have different intricacies, so it is better if i just stick to extracting districts as they are the last words in the address.
 
+The best way to make sure that all the districts are spell proof, was to find the count of all the districts having same names, and the count of number of people from each of the districts.
+So wrote a script to collect the count of all the districts from the excel sheets and store it in a txt file.
+I manually checked the names for duplicates and made a note to correct them. 
+Once that was done, I crossed referenced the names of all the districts to check for any spelling errors, and if there were, I went through the dataset and checked them manually.
+
+And we then get data which was clean with the count of districts and the number of people represented from each of the districts.
+
 
 
