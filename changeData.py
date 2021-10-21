@@ -6,6 +6,10 @@ import glob
 
 dir = "mathExcels"
 destination = "mathTransformed"
+
+# dir = "test"
+# destination = "test2"
+
 pattern = "*.xlsx"
 # excelFiles = os.listdir(dir+"\.") // didnt allow use of regular expressions, hence had to use glob
 excelFiles = glob.glob(dir+"/"+pattern)
@@ -36,8 +40,9 @@ for file in excelFiles:
     newSheet["D2"].value = oldSheet["D2"].value
 
     newSheet["E2"].value = "Name"
-    newSheet["F2"].value = "District"
-
+    newSheet["G2"].value = "District"
+    newSheet["F2"].value = "Address"
+    newSheet["H2"].value = None
 
     # newSheet["E2"].value = "Name"
     # newSheet["F2"].value = "Designation"
@@ -71,8 +76,10 @@ for file in excelFiles:
 
         newSheet.cell(row=i,column=5).value = fullName
         # print(district)
-        newSheet.cell(row=i,column=6).value = district
-        
+        addr = "".join(Address[:-1])
+        newSheet.cell(row = i,column=6).value = addr
+        newSheet.cell(row=i,column=7).value = district
+        newSheet.cell(row=i,column=8).value = None        
             ###Approach 2
         # print(Address)
         # address = Address.split(", ")
