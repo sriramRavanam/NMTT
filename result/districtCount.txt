@@ -1,18 +1,31 @@
 581118 - 1 
+583101 - 1 
+A B N C H S KB Extention Chitradurga - 1 
+AID Anjuman High School Bagalkot - 1 
+Adarsha Vidyalaya (RMSA)Molakalmur Chitradurg - 1 
+Afzalpur - 1 
 Akka Mahadevi G H S Bidar - 1 
+Al – Ameen Comp. P U College Bidar - 1 
+Alvekodi,Bhatkal,Uttarkannada - 1 
+Anjuman High School Dharwad - 1 
 Ankola Uttara Kannada - 1 
 Arakalgud. Hassan - 1 
-B D E Girls H S Vijayapur - 1 
-Badami - 1 
-Bagalakot - 5 
-Bagalkot - 55 
-Bagalkot  - 1 
-Bagalkote - 2 
-Ballari - 3 
-Bangalkot - 1 
-Bangalor - 1 
+Aurad - 1 
+Aurad(B) Bidar - 1 
+B T S HS Kamparahalli Tiptur,Tumku - 1 
+B.L.R.J.C. Sirigere Chitradurg - 1 
+B.L.R.J.C. Sirigere Chitradurga - 3 
+Bagalakote - 3 
+Bagalkot - 149 
+Ballar - 2 
+Ballari - 88 
+Ballari (Bellary) - 95 
+Ballari East - 1 
+Ballari west - 1 
+Ballary - 12 
+Ballery - 1 
+Banajara Vidyavardhaka HS Maralur Tumku - 1 
 Bangalore -5 - 1 
-Bangalore North Range -3 - 1 
 Bangalore North – 1 Bangalore - 9 - 1 
 Bangalore North – 56002 - 1 
 Bangalore North- - 1 
@@ -20,130 +33,326 @@ Bangalore North- 0 - 1
 Bangalore North- 1 - 2 
 Bangalore – 04 - 1 
 Bangalore – 3 - 1 
-Basavakalyan - 1 
-Belagavi - 13 
-Belgaum - 52 
-Belgavi - 2 
-Belgum - 1 
-Bellari - 3 
-Bellary - 34 
-Bidar - 69 
-CHikkaballapur - 1 
-Chamagarajnagar - 1 
-Chamarajanagar - 17 
-Chamarajanagar Nagar - 1 
-Chamarajanagara - 2 
-Chamarajnagar - 2 
-Chickaballapura - 1 
-Chikkabalapur - 2 
-Chikkaballapur - 14 
-Chikkaballapura - 4 
-Chikkamagallur - 1 
-Chikkamagalur - 1 
-Chikkamagaluru - 13 
-Chikkkamagalur - 1 
-Chikkodi - 9 
-Chillabalapur - 1 
-Chitradurga - 1 
-D Y Chougle Bharatesh High School Belgaum - 1 
+Banjara High School Vijayapur - 1 
+Bapuji  Comp PUC Bharamasagar Chitradurga - 1 
+Basaveshwar High School Gadag - 1 
+Basaveshwara High School Shimmogga - 1 
+Basel Mission Boys High School Dharwad - 1 
+Basel Mission Comp Junior Collee(H S) Dharwad - 1 
+Basel Mission Girls High School Dharwad - 1 
+Belagavi (Belgaum) - 129 
+Belagum - 2 
+Bellar - 3 
+Bengaluru (Bangalore) Rural - 1 
+Bengaluru (Bangalore) Urban - 1 
+Bharat High School Dharwad - 2 
+Bharatheeya HS Madakaripura Chitradurg - 1 
+Bidar - 178 
+Bijapur - 4 
+C B Ballari - 1 
+C N Halli Tumkur - 2 
+CHikkaballapura - 1 
+Central PU College(High School) Urdigere,Tumku - 1 
+Challakere Chitradurga - 1 
+Chamarajanagar - 23 
+Channagiri - 1 
+Chickmagalore - 3 
+Chickmagalur - 4 
+Chickmagaluru - 1 
+Chickmaglur - 1 
+Chikamagalore - 3 
+Chikamagalur - 4 
+Chikamagaluru - 3 
+Chikballapur - 89 
+Chikkamagalauru - 1 
+Chikkamagalore - 2 
+Chikkamagaluru (Chikmagalur) - 31 
+Chikkmagalore - 1 
+Chikmagalore - 6 
+Chikmagalur - 10 
+Chikmagaluru - 3 
+Chikoddi - 1 
+Chikodi - 1 
+Chiradurga - 2 
+Chitradurg - 4 
+Chitradurga - 54 
+D V S High School Shimoga - 2 
 DHANARA - 1 
-Davanagere - 16 
-Davangere - 5 
-Deovadurga Raichur - 1 
-Dharawad - 1 
-Dharwad - 22 
-For Boys Koppal - 1 
+DR.B.R.Ambedkar Aided High School Koratagere,Madhugiri - 1 
+Davanager - 1 
+Davangere - 116 
+Deepti High School N R Pura - 1 
+Dharwad - 102 
+Dinakar School,Kumta,Uttarkannada - 1 
+Dr. B R Ambedkar Hs Chowdanakuppe Kunigal Tumku - 1 
+G G U H S Fort Raichur - 1 
+G H S Chidri Bidar - 1 
 G H S Coxtown Bangalore North - 0 - 1 
-G H S Dodda Bommanahalli - 1 
-G H S Hanumanthapura Hassan - 1 
 G H S Harohalli (Varuna) Mysore - 1 
-G H S Makavalli K R Pet(Tq) Mandya(Dist. - 1 
-G H S Sugur,Shorapur Yadagiri - 1 
-G H S Uramarakasalagere Mandya - 1 
-G P U C For girls Udupi - 1 
-GGJC Chintamani - 1 
-Gadag - 40 
-Galburga - 1 
-Govt. Adarsha Vidyalaya Dharwad - 1 
-Govt. P U College for Boys Koppal - 1 
-Gulbarga - 9 
-Hassan - 65 
-Hasssan - 2 
-Haveri - 63 
+G H S High School Narendra Dharwad - 1 
+G H S Hirekattigenahalli - 1 
+G H S KEB Colony Raichur - 1 
+G H S Kallukambha Kurugodu Bellary - 1 
+G H S Karur Siruguppa Bellary - 1 
+G H S Nandur (K) Kalaburagi South - 1 
+G H S Tarafile Kalaburagi South - 1 
+G H S Wankasambram Yadgiri - 1 
+G J C B H S Davanagere - 1 
+G J C Malur(Girls) Kolar - 1 
+G P U C Boys H S Bidar - 1 
+G P U C Ripponpete - 1 
+G. F. Kolar - 2 
+GADAGAYYA SWAM - 1 
+GEETA M MALLAPURMAT - 1 
+GHS  C.S Halli Hiriyur Chitradurg - 1 
+GHS  Kalamarahally Challakere Chitradurg - 1 
+GHS (RMSA) Chaganuru Ballari East Ballar - 1 
+GHS (RMSA) HK Halli Sandur Ballar - 1 
+GHS Barasidlahalli Chikkanayakanahalli Tumku - 1 
+GHS Byatha Tumku - 2 
+GHS Dammur Ballari East,Ballar - 1 
+GHS Dodda Siddana Halli Chitradurga - 1 
+GHS Gubehalli  Nandihalli Chikkanayakanahalli Tumku - 1 
+GHS Hirekabbigere Gollara Hatti Chitradurg - 1 
+GHS Honnudike Hand Post Tumku - 1 
+GHS Kakkabevina Halli Ballari East Ballar - 1 
+GHS Kolahal,Chitradurg - 1 
+GHS Kunigal Tumku - 1 
+GHS Maridasanahalli pavagada,Madhugir - 1 
+GHS Shettigere,Kunigal,tumkur - 1 
+GHS Siriwara Ballari East Ballar - 1 
+GHS Sriramarangapura Hospet Ballar - 1 
+GHS,K M Halli Kudligi Ballar - 1 
+GJC HS  Bhaktharahalli Kunigal,Tumku - 1 
+GPU College Turuvanuru Chitradurg - 3 
+GUHS Chitradurga - 1 
+GUHS Siruguppa ,Ballar - 1 
+GULSHAN ARA BEGU - 1 
+Gadag - 107 
+Government High School Bandravi Molakalmur,Chitradurg - 1 
+Govt (Ex - Mpl) High School Ballari - 1 
+Govt Girls High School Kamalapura - 1 
+Govt High School B.K Halli Pavagada Madhugir - 1 
+Govt High School Badavanahalli Madhugir - 1 
+Govt High School Boodi Betta Pavagada Madhugir - 1 
+Govt High School Hanumanahalli Madhugir - 1 
+Govt High School Honnagondanahalli Sira Madhugir - 1 
+Govt High School Madhugir - 1 
+Govt High School Sakshihalli Sira Madhugir - 1 
+Govt High School Thimmasandra Koratagere Madhugir - 1 
+Govt Junior College  HS I.D.Halli,Madhugir - 1 
+Govt Junior College B.D.Pura Koratagere Madhugir - 1 
+Govt PU College (High School Section),Yalagodu Chitradurga - 1 
+Govt. Adarsha Vidyalaya A D Gudda Kudligi Ballar - 1 
+Govt. Adarsha Vidyalaya Bellar - 2 
+Govt. Adarsha Vidyalaya Kudligi Ballar - 1 
+Govt. Girls Juniour College Chitradurg - 1 
+Govt. Girls Juniour College Chitradurga - 1 
+Govt. Girls PU College (High School Section) Bagalkote - 1 
+Govt. High School Dandoti - 1 
+Govt. High School Gungurumele - 1 
+Govt. High School Hallibail - 1 
+Govt. High School Hithalahalli Mutt Kunigal Tumku - 1 
+Govt. Junior College for Girls (High School Section) Chitradurga - 1 
+Govt. P U College for Girls Hosapete (High School Section) Ballary - 1 
+Govt. P U College,(High School Section)Yalagodu,Chitradurga - 1 
+Govt. PU College (High School Section) Sagar - 1 
+Govt. Practising high school Kalaburagi South - 1 
+Govt. Urdu High School Kundur - 1 
+Govt.Boys Juniour College Chitradurg - 1 
+Govt.Boys Juniur College Chitradurga - 1 
+Guru Deva  High School Kottur Kudligi,Ballar - 1 
+H M S M Urdu High School Bidar - 1 
+H S Bidar - 2 
+Hadgali Bellary - 1 
+Hassan - 173 
+Hassan – 57310 - 1 
+Haveri - 65 
+Hazarat Nizamuddin High School Dharwad - 1 
+Hazrath Momin Basha Tumkur - 1 
 High Schoo - 1 
-High School Madhugiri - 1 
+Holalkere Chitradurga - 1 
+Honnudike Tumkur - 1 
+Hosalli Kudligi,Ballari-58321 - 1 
+Hubli (Rural) Dharwad - 1 
+J P High School Gadag - 1 
+JAGANNATHA U  - 1 
 JAIPRAKASHA S  - 1 
-Jamakhondi - 1 
-K R Nagara Mysore - 1 
+Jayadevitai G H S Dharwad - 1 
+K B Extn. Chitradurga - 1 
+K E B’s High School Malamaddi Dharwad - 1 
+K M H P S Chikkaballapura - 1 
+K P S Moka Bellary - 1 
+K. G. F. Kolar - 1 
+KAVITA C SHEELAVAN - 1 
+KNSC HS Ittigi Hoovina Hadagali,Ballar - 1 
 KOTRESH  - 1 
-Kadwad Karwar Uttara Kannada - 1 
-Kalaburagi - 12 
-Kalaburgi - 7 
-Kalburagi - 2 
-Kalburgi - 5 
-Kalidas High School Haveri - 1 
-Kodagu - 19 
-Koppa - 2 
-Koppal - 47 
-Kumta Uttara Kannada - 1 
-MAHANTESH M HULAGABAL - 1 
+Kadur - 1 
+Kalaburagi (Gulbarga) - 151 
+Kalaburagi South - 6 
+Kalbarga - 1 
+Kalburgai - 2 
+Kaliburgi - 1 
+Kanchivaradaraja H.S.Kanchipura,Hosadurga Chitradurg - 1 
+Karnataka High School Dharwad - 1 
+Kavery HS A S K Palya Tumku - 1 
+Kodagu - 22 
+Kola - 1 
+Kolar - 100 
+Koppa Chikmagalur - 1 
+Koppal - 65 
+Kunigal - 1 
+Kunigal Tumkur - 2 
+Kushtagi - 1 
+M B S L High School Ballari - 2 
+M G M High School Gundarlahalli Pavagada Madhugir - 1 
+M G N Pai High School Sagar Shimoga - 1 
+M K H S Shahabazar Kalaburagi - 1 
+M N HS,Chitradurg - 1 
+M S S H S Davanagere - 1 
 MAHESHWARA M MAGANU - 1 
-Madhugiri - 57 
-Madhugiri. - 1 
-Madhuigiri - 1 
-Madhyamik Vidyalay Kangrali BK Belgaum - 1 
-Mandy - 1 
-Mandya - 34 
-Mandya North - 1 
+Madhugir - 5 
+Mahadevi Girls High School Kalaburgi - 1 
+Maharani Composit P U College (HS Section) Chitradurga - 1 
+Mandya - 78 
+Mandya South - 1 
 Mandya – 57145 - 1 
-Manipal Udupi - 1 
-Manvi Raichur - 1 
-Mudalagi - 1 
-Mysore - 69 
-Mysore  - 1 
-Mysuru - 8 
+Mannaekhelli - 1 
+Marathi Vidyalaya Vijayapur - 1 
+Melkunda (B) Kalaburagi South - 1 
+Molakalmur Chitradurg - 1 
+Mysuru (Mysore) - 80 
+N R H S S.R Palya Pavagada ,Madhugir - 1 
+N V Boy’s High School Kalaburagi - 1 
+N V Girls H S Kalaburagi South - 1 
+N V High (Boys) Kalaburagi South - 1 
 NAME - 3 
-Netaj H S Sulge (Y) Belgaum - 1 
-North Coorg - 1 
+Name - 7 
+Navalgund - 1 
+New High School Dharwad - 1 
+Niveditha High School Kyathsandra Tumkur - 1 
 North – 1 Bangalore - 1 
+P P G High School Gadag - 1 
+P.V.S.B.C HS Hospet ,Ballar - 1 
 PAVITHRA Y  - 1 
-Pavagada - 1 
-Pereyapatna - 1 
+PRANESH  - 1 
+PRASHANT S PATTADAKAL - 1 
+PRIYA S  - 1 
+Pavagada,Madhugir - 1 
+R P H S  Pavagada ,Madhugir - 1 
+RAGHAVENDRA RAJU NAI - 1 
+RAMACHANDRA V KATT - 1 
 RAVIKUMARA H  - 1 
 RAVISHANKARA K  - 1 
-Racihur - 1 
-Raichur - 31 
-Ramanagar - 2 
-Ramanagara - 7 
-Ramangara - 1 
+RMSA Bagalkot - 1 
+RUKHSANA PARVEE - 1 
+Raichur - 145 
+Ramanagara - 50 
+Rayabag - 1 
+Residential High School Chitradurga - 1 
 Road Mysore - 1 
+Roopanagudi Ballari - 1 
+Rural HS PK Halli Hospet Ballar - 1 
+S A R H S Rantavalalu Madhugir - 1 
+S A S PU College C T Kere Tumkur - 1 
+S B C J C Kolala,koratager,Madhugiri - 1 
+S B J C Hullekere Dandinshivra - 1 
+S G R H.S.Attimage Hosadurga,Chitradurg - 1 
+S G R J C Gulur,Tumku - 1 
+S K High School Kodagadala Madhugir - 1 
+S K.M.M High School Kurramkote Koratagere Madhugir - 1 
+S M C P U C  Kuppalu,Tiptur,Tumku - 1 
 S O G K High School - 1 
+S P V H S Mavinahalli Gubbi,Tumku - 1 
+S R High School Kavanadala Madhugir - 1 
+S R K B H S Muniyur Turuvekere Tumku - 1 
+S R P U  Mallappanahalli,Hosadurga,Chitradurg - 1 
+S S R H S Markonahalli Kunigal Tumkur - 1 
+S S RHS Surigenahalli Gubbi,Tumku - 1 
+S.M.H.S.Vengalapura Hosadurga Chitradurg - 1 
 SALEEM PASHA  - 1 
+SGRHS Karehalli Hosadurga Chitradurg - 1 
 SHAKUNTHALA M CHIND - 1 
 SHANTAPPA A KERUTAG - 1 
+SMIORE HS Hospet,Ballari - 1 
+SMS HS Chelur Gubbi Tumkur-57211 - 1 
+SPV HS Mavinahalli Gubbi,Tumku - 1 
+SREELATHA  - 1 
+Sacred Heart High School B H Road Shimoga - 1 
+Sagameshwar H S Kalaburagi - 1 
+Sagar Shimoga  - 1 
+Saint Pauls Girl High School Davanagere - 1 
+Samata High School Bidar - 1 
+Sampige Siddeswara HS Chitradurga - 1 
+Sankrappa Sakri Comp. PU College (High School Section) Bagalkot - 1 
+Sedam Kalaburgi - 1 
 Sevaashram High School Srirampuram Bangalore -2 - 1 
-Shri Sangameshwar High School Bhalki - 1 
-Sirsi - 12 
-Sirsi Edu Dist - 1 
-Sirsi Education - 1 
-Siruguppa - 1 
-South Kodagu - 2 
-Tajsultanpur Kalburgi - 1 
-Tiptur - 1 
-Tumkur - 61 
-Uchangidurga - 1 
-Udupi - 28 
-Uttar Kannada - 12 
-Uttar Kannda - 1 
-Uttar kannada - 1 
-Uttara Kannada - 48 
-Uttara Kannda - 1 
+Shikaripura - 1 
+Shimoga - 75 
+Shimoga. 1 - 1 
+Shimogga - 1 
+Shivammogga - 1 
+Shivamoga - 5 
+Shivamogga - 11 
+Shree Ballekatte Santana Shree Mata HS Kallushettihalli Tiptur Tumku - 1 
+Shree Sharabayya Gada Girls High School Nehr - 1 
+Shri Barageramma HS Chitradurga - 1 
+Shri M V Pattan Com J - 1 
+Siruguppa Bellary - 1 
+Soraba - 1 
+Sree Lokendra High School Tumkur - 1 
+Sree Rama High Schoo - 1 
+Sri Ambabavani High School Seenappanahalli Kunigal,Tumku - 1 
+Sri Ammaji RHS Harogere Sira Madhugir - 1 
+Sri Anjaneyaswamy HS Manangi Chitradurg - 1 
+Sri Basaveshwara HS Thippur Gubbi Tumku - 1 
+Sri Basaveshwara RHS Kondli Cross Gubbi,Tumku - 1 
+Sri Basaveswara High School Hosakere - 1 
+Sri Bruhanmatha H S Chitradurga - 1 
+Sri Chowdeshwari High School Tiptur Tumku - 1 
+Sri Gaviranganatha HS Doddennegere Chiknayakanhalli,Tumku - 1 
+Sri Gowthama HS Yediyur Kunigal Tumku - 1 
+Sri Jnnanaganga RHS Koppa Gubbi Tumku - 1 
+Sri Mahalingeshwara H S Tumku - 1 
+Sri Maruthi High Schoo Karpenahalli Madhugir - 1 
+Sri Nanjundeshwara HS Kithaganahalli Tumku - 1 
+Sri Sadguru Kabeerananda Swamy HS Chitradurg - 1 
+Sri Sharada High School Chitradurga - 1 
+Sri Siddartha Gowthama RHS Gidaganahalli Sira Madhugir - 1 
+Sri Someshwara Hs Somalapura Gubbi Tumku - 1 
+Sri Swamy Vivekananada HS Challakere Chitradurg - 1 
+Sri Swarnamba High School Honnudike Tumkur - 1 
+Sri Uma Pragathi HS Mydala Tumku - 1 
+Sri Valmiiki HS Challakere Chitradurga - 1 
+Sri Vijaya Kan Hs Manumaihnahatty Challakere,Chitradurg - 1 
+Sri Vinayaka HS Hagalavadi,Gubbi,Tumku - 1 
+T B Dam HS Hospet - 1 
+TPCK GHS Holalakere,Chitradurg - 1 
+Tumakuru (Tumkur) - 243 
+Tumku - 1 
+Tumkuru - 1 
+Turuvekere Tumku - 1 
+U P School Dharwad - 1 
+Udupi - 30 
+Umapragathi Hs Hiredoddavadi Tumku - 1 
+Uttara Kannada (Karwar) - 91 
+Uttara kannada - 1 
+Uttarakannad - 1 
+Uttarkannada - 2 
+V D S Girls School Gadag - 1 
+V D S T C Boys High School Gadag - 1 
+V T S (Rotary Club) H S Kalaburagi - 1 
 VAIJINATH P MEHTR - 1 
-Vijayapur - 27 
-Yadagir - 9 
-Yadagiri - 8 
-Yadagiri  - 1 
-Yadgir - 16 
-Yadgiri - 5 
-vijayapu - 1 
-vijayapur - 1 
+Valmiki  High School B H Road Tumku - 1 
+Vanivilasa Composite HS Hosadurga Chitradurg - 1 
+Vidyaranya H S Turuvekere,Tumkur - 1 
+Vidyaranya HS Chelur Gubbi Tumku - 1 
+Vijapur - 2 
+Vijayapura - 7 
+Vijayapura (Bijapur) - 72 
+Vijaypur - 2 
+Vijaypura - 1 
+Wardha - 2 
+Yadgir - 58 
+hunagund - 1 
+kalaburagi - 1 

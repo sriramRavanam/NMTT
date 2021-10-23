@@ -2,8 +2,8 @@
 import openpyxl as op
 import glob
 
-# location = "mathTransformed"
-location = "test2"
+location = "mathTransformed"
+# location = "test2"
 
 destination = "result"
 
