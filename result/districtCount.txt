@@ -13,13 +13,13 @@ Bangalkot - 1
 Bangalor - 1 
 Bangalore -5 - 1 
 Bangalore North Range -3 - 1 
-Bangalore North – 1 Bangalore - 9 - 1 
-Bangalore North – 56002 - 1 
+Bangalore North ï¿½ 1 Bangalore - 9 - 1 
+Bangalore North ï¿½ 56002 - 1 
 Bangalore North- - 1 
 Bangalore North- 0 - 1 
 Bangalore North- 1 - 2 
-Bangalore – 04 - 1 
-Bangalore – 3 - 1 
+Bangalore ï¿½ 04 - 1 
+Bangalore ï¿½ 3 - 1 
 Basavakalyan - 1 
 Belagavi - 12 
 Belgaum - 51 
@@ -94,7 +94,7 @@ Madhyamik Vidyalay Kangrali BK Belgaum - 1
 Mandy - 1 
 Mandya - 33 
 Mandya North - 1 
-Mandya – 57145 - 1 
+Mandya ï¿½ 57145 - 1 
 Manipal Udupi - 1 
 Manvi Raichur - 1 
 Mudalagi - 1 
@@ -104,7 +104,7 @@ Mysuru - 8
 NAME - 3 
 Netaj H S Sulge (Y) Belgaum - 1 
 North Coorg - 1 
-North – 1 Bangalore - 1 
+North ï¿½ 1 Bangalore - 1 
 PAVITHRA Y  - 1 
 Pavagada - 1 
 Pereyapatna - 1 
