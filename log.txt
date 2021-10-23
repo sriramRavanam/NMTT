@@ -98,7 +98,11 @@ I went through the count file, and saw that most of the district names entered w
 I took the official names from the website and made the corrections in the excel files in order to generalize the names for all the entries.
 We can see a before and after result of the count file, I have stored both in different files.
 
+Fixed most of the data but there are still a lot of bad addresses or bad districts. Fixing them manually is taking quite a long time.
+But the scripts written all run in a matter of seconds so that has made my job a little easier.
+
 And we then get data which was clean with the count of districts and the number of people represented from each of the districts.
+
 
 
 
