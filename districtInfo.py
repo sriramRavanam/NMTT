@@ -22,7 +22,7 @@ for file in files:
     wb = op.load_workbook(filename=file)
     ws = wb.worksheets[0]
 
-    maxRows = ws.max_row
+    maxRows = ws.max_row + 1
 
     for i in range(3,maxRows):
         districtName = ws.cell(row=i,column=7).value

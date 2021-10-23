@@ -94,6 +94,10 @@ So wrote a script to collect the count of all the districts from the excel sheet
 I manually checked the names for duplicates and made a note to correct them. 
 Once that was done, I crossed referenced the names of all the districts to check for any spelling errors, and if there were, I went through the dataset and checked them manually.
 
+I went through the count file, and saw that most of the district names entered were not part of the official names from Karnataka website,
+I took the official names from the website and made the corrections in the excel files in order to generalize the names for all the entries.
+We can see a before and after result of the count file, I have stored both in different files.
+
 And we then get data which was clean with the count of districts and the number of people represented from each of the districts.
 
 
