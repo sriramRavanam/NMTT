@@ -103,6 +103,6 @@ But the scripts written all run in a matter of seconds so that has made my job a
 
 And we then get data which was clean with the count of districts and the number of people represented from each of the districts.
 
-
+while correcting the data manually, came across a file that wasnt extracted successfully. High School Mathematics Teachers Name List (04-12-2020 to 13-12-2020)
 
 
