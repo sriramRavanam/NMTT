@@ -2,22 +2,39 @@
 import glob
 import openpyxl as op
 
-officialNameFile = "./result/NamesToChange"
+namesToChangeFile = "./result/NamesToChange"
 
 # lines = []
-with open(officialNameFile,"r") as file:
+with open(namesToChangeFile,"r") as file:
     lines = file.readlines()
 
+
 lines = list(map(lambda x: x.strip() , lines))
+
+officialNamesFile = "./result/officialNamesKarnataka.txt"
+
+# official names
+with open(officialNamesFile,"r") as file:
+    officialNames = file.readlines()
+
+officialNames = list(map(lambda x: x.strip(), officialNames))
+officialNamesDict = {}
+
+for i in range(len(officialNames)):
+    officialNamesDict[i] = officialNames[i]
+
 
 dictValues = {}
 
 for s in lines:
     split = s.split(" - ")
     value = split[-1]
+    if value in officialNames:
+        value = officialNames.index(value) + 1
+    value = int(value)
     key = "".join(split[:-1])
 
-    dictValues[key] = value
+    dictValues[key] = officialNamesDict[value-1]
 
 
 # excelFilesPath = "test2"
